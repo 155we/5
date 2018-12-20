@@ -13,6 +13,7 @@
     "express": "^4.16.3",
     "finalhandler": "^1.1.1",
     "fortnite": "^3.0.0",
+    "discord-anti-spam": "^1.1.6",
     "fs": "^0.0.2",
     "axios": "^0.18.0",
     "get-youtube-id": "^1.0.0",
